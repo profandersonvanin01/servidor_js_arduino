@@ -4,3 +4,11 @@
 
 ![image](https://github.com/profandersonvanin01/servidor_js_arduino/assets/101676959/7e4c0e75-3291-4ec0-bead-b8ed024ac677)
 
+
+
+# Baseado em:
+- https://github.com/codeadamca/arduino-from-nodejs
+- https://www.youtube.com/watch?v=gQYsUjT-IBo
+- https://codeadam.ca/learning/arduino-from-nodejs
+- 
+
